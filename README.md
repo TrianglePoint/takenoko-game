@@ -1,4 +1,4 @@
-# takenoko-game
+# takenoko-game (inGame : japanese)
 Game of a Kaguya Hime story in japan. (part of story of anime)
 
 This is project of java.
